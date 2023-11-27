@@ -1,0 +1,75 @@
+body{
+  	background: url(1.jpg);
+  	background-repeat: no-repeat;
+  	background-attachment: fixed;
+    background-size: cover;
+	}
+.orqaoq{
+	border-radius: 40px;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
+	width: 60%;
+	display: flex;
+}
+img{
+	width: 100%;
+	margin-top: 40px;
+}
+.rasm{
+	width: 50%;
+	margin: 15px;
+	display: inline-block;
+	margin-bottom: 50px;
+}
+.rosttaraf{
+	width: 40%;
+	display: inline-block;
+	margin-top: 50px;
+}
+.buttontugmacha{
+	background-color: blue;
+	color: white;
+	border-radius: 17px;
+	border: 0;
+	width: 400px;
+	height: 50px;
+}
+.royxat{
+	display: flex;
+	margin-bottom: 5px;
+	margin: 50px;
+}
+.ulol{
+	display: flex;
+}
+.list-item a {
+	text-decoration: none;
+}
+a,ul{
+	text-decoration: none;
+	list-style-type: none;
+}
+li{
+	width: 30px;
+	height: 20px;
+	padding: 10px;
+	border: 2px solid blue;
+	text-align: center;
+	color: blue;
+	margin: 2px;
+
+}
+.hse,h3,h2{
+	color: blue;
+	margin: 0;
+}
+h1,h2,h3{
+	text-transform: uppercase;
+}p{
+	opacity: 0.7;
+}
+.hse{
+	margin-top: 45px;
+}
